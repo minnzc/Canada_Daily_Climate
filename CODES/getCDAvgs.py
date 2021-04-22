@@ -14,7 +14,7 @@ Last updated: ---
 # DEFINE REQUIRED VARIABLES
 
 # Project directory
-directory = ("C:/Users/minni/Research/COVID_CAN/AVG_CLIMATE/DATA")
+directory = "C:/Users/minni/Research/COVID_CAN/Canada_Daily_Climate"
 
 # Census subdivisions file (acquired from StatsCan)
 census_sd = "census_subdivisions"
@@ -24,9 +24,6 @@ pop_sd = "subdivisions_pop"
 
 # Operational weather stations geo-data (as of April 13, 2021)
 stations_file = "swob-xml_station_list.csv"
-
-# Number of subdivisions to average if no weather station or if weather station not working
-# num_district = 3
 
 ###############################################################################
 # IMPORT REQUIRED PACKAGES
@@ -190,6 +187,4 @@ if cont.lower() == 'y':
 # If user says no, end code
 else:
     print("\nEnd of code.")
-
-
 
