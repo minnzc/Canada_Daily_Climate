@@ -49,7 +49,7 @@ this_year = today.year
 start = date(this_year, 1, 1)
 todayfile = "daily_climate_" + str(start) + "_to_" + str(today) + ".csv"
 outputfile_cd = "daily_cd_climate_" + str(this_year) + ".csv"
-outputfile_sd = "daily_sd_climate_" + str(this_year) + ".csv"
+outputfile_sd = "daily_csd_climate_" + str(this_year) + ".csv"
 
 # Remove old master data if in daily_climate folder
 if len(os.listdir("./daily_climate")) != 0 and todayfile not in os.listdir("./daily_climate"):
