@@ -1,4 +1,4 @@
-## Canada average climate conditions by Census subdivisions and Census divisions data sets
+## Canada average climate conditions by Census divisions and Census subdivisions data sets
 
 Climate conditions variables are recorded daily with a 2-3 day lag by weather stations. I take the mean of all non-null weather stations climate variable readings contained within a Census subdivision. Then, I take the weighted mean of all Census subdivisions with non-null climate variable values within a Census division. Weights are frequency weights using 2018-2020 Census subdivision population estimates. 2020 population estimates are used for weighing 2021 climate variables. Null values means no readings are recorded from weather stations.
 
@@ -6,8 +6,8 @@ Data is being updated every Monday.
 
 ## Final data sets
 
-- **Census subdivisions data set**: daily_sd_climate_YYYY.csv
 - **Census divisions data set**:    daily_cd_climate_YYYY.csv
+- **Census subdivisions data set**: daily_csd_climate_YYYY.csv
 
 ## Variables
 
