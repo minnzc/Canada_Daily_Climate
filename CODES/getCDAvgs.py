@@ -8,13 +8,13 @@ climate variables data set.
 
 Author:       Minnie Cui
 Date written: 20 April 2021
-Last updated: ---
+Last updated: 26 April 2021
 """
 ###############################################################################
 # DEFINE REQUIRED VARIABLES
 
 # Project directory
-directory = "C:/Users/minni/Research/COVID_CAN/Canada_Daily_Climate"
+directory = "C:/Users/minni/Research/COVID_CAN/Canada_Daily_Climate/DATA"
 
 # Census subdivisions file (acquired from StatsCan)
 census_sd = "census_subdivisions"
