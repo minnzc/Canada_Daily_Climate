@@ -205,6 +205,7 @@ CLIMATE_IDENTIFIER,CSDUID,CSDNAME,PRUID,PRNAME,CDUID,CDNAME
 3060406,4813044,Athabasca County,48,Alberta,4813,Division No. 13
 3060535,4813018,Barrhead County No. 11,48,Alberta,4813,Division No. 13
 3060903,4814003,Yellowhead County,48,Alberta,4814,Division No. 14
+3060L20,4813048,Athabasca,48,Alberta,4813,Division No. 13
 3061201,4813018,Barrhead County No. 11,48,Alberta,4813,Division No. 13
 3061350,4814003,Yellowhead County,48,Alberta,4814,Division No. 14
 3061975,4813028,Westlock County,48,Alberta,4813,Division No. 13
@@ -981,6 +982,7 @@ CLIMATE_IDENTIFIER,CSDUID,CSDNAME,PRUID,PRNAME,CDUID,CDNAME
 6140942,3529005,Brant,35,Ontario,3529,Brant
 6142286,3523025,Centre Wellington,35,Ontario,3523,Wellington
 6142400,3523025,Centre Wellington,35,Ontario,3523,Wellington
+6142803,3523033,Mapleton,35,Ontario,3523,Wellington
 6143089,3523008,Guelph,35,Ontario,3523,Wellington
 6144239,3530035,Woolwich,35,Ontario,3530,Waterloo
 6144473,3539036,London,35,Ontario,3539,Middlesex
