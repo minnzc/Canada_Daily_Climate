@@ -29,7 +29,6 @@ stations_file = "swob-xml_station_list.csv"
 # IMPORT REQUIRED PACKAGES
 import os
 import pandas as pd
-import numpy as np
 from datetime import date
 from functions import getSD
 import shapefile as sf
