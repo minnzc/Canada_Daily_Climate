@@ -8,7 +8,7 @@ climate variables data set.
 
 Author:       Minnie Cui
 Date written: 20 April 2021
-Last updated: 26 April 2021
+Last updated: 15 May 2021
 """
 ###############################################################################
 # DEFINE REQUIRED VARIABLES
@@ -77,9 +77,9 @@ for v in ["CLIMATE_IDENTIFIER", "STATION_NAME", "PROVINCE_CODE", "LOCAL_DATE", "
     float_cols.remove(v)
 dtypes = {}
 for v in float_cols:
-    dtypes[v] = np.float
+    dtypes[v] = float
 for v in int_cols:
-    dtypes[v] = np.int
+    dtypes[v] = int
 for col, col_type in dtypes.items():
     master[col] = master[col].astype(col_type)
     
