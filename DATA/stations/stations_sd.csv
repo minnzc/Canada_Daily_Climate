@@ -1001,6 +1001,7 @@ CLIMATE_IDENTIFIER,CSDUID,CSDNAME,PRUID,PRNAME,CDUID,CDNAME
 6153301,3525005,Hamilton,35,Ontario,3525,Hamilton
 6155750,3524001,Oakville,35,Ontario,3524,Halton
 6155875,3518013,Oshawa,35,Ontario,3518,Durham
+6155878,3518013,Oshawa,35,Ontario,3518,Durham
 6156559,3513020,Prince Edward County,35,Ontario,3513,Prince Edward
 6157000,3522012,Mono,35,Ontario,3522,Dufferin
 6158355,3520005,Toronto,35,Ontario,3520,Toronto
@@ -1011,6 +1012,7 @@ CLIMATE_IDENTIFIER,CSDUID,CSDNAME,PRUID,PRNAME,CDUID,CDNAME
 6158875,3512015,Quinte West,35,Ontario,3512,Hastings
 6159123,3518029,Uxbridge,35,Ontario,3518,Durham
 615S001,3520005,Toronto,35,Ontario,3520,Toronto
+615S002,3525005,Hamilton,35,Ontario,3525,Hamilton
 6163171,3546024,Dysart et al,35,Ontario,3546,Haliburton
 6166415,3515013,Cavan Monaghan,35,Ontario,3515,Peterborough
 6166456,3515014,Peterborough,35,Ontario,3515,Peterborough
