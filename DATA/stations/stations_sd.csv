@@ -958,6 +958,7 @@ CLIMATE_IDENTIFIER,CSDUID,CSDNAME,PRUID,PRNAME,CDUID,CDNAME
 6127510,3538030,Sarnia,35,Ontario,3538,Lambton
 6127519,3538030,Sarnia,35,Ontario,3538,Lambton
 6128330,3541069,Northern Bruce Peninsula,35,Ontario,3541,Bruce
+6129660,3540046,Howick,35,Ontario,3540,Huron
 6130257,3537028,Amherstburg,35,Ontario,3537,Essex
 6131414,3536020,Chatham-Kent,35,Ontario,3536,Chatham-Kent
 6131983,3528052,Norfolk County,35,Ontario,3528,Haldimand-Norfolk
@@ -984,6 +985,7 @@ CLIMATE_IDENTIFIER,CSDUID,CSDNAME,PRUID,PRNAME,CDUID,CDNAME
 6140942,3529005,Brant,35,Ontario,3529,Brant
 6142286,3523025,Centre Wellington,35,Ontario,3523,Wellington
 6142400,3523025,Centre Wellington,35,Ontario,3523,Wellington
+6142402,3523025,Centre Wellington,35,Ontario,3523,Wellington
 6142803,3523033,Mapleton,35,Ontario,3523,Wellington
 6143089,3523008,Guelph,35,Ontario,3523,Wellington
 6144239,3530035,Woolwich,35,Ontario,3530,Waterloo
