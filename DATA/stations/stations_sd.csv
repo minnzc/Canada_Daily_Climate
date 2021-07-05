@@ -394,6 +394,7 @@ CLIMATE_IDENTIFIER,CSDUID,CSDNAME,PRUID,PRNAME,CDUID,CDNAME
 1100119,5909032,Kent,59,British Columbia / Colombie-Britannique,5909,Fraser Valley
 1100120,5909032,Kent,59,British Columbia / Colombie-Britannique,5909,Fraser Valley
 1100875,5931020,Whistler,59,British Columbia / Colombie-Britannique,5931,Squamish-Lillooet
+1101158,5915025,Burnaby,59,British Columbia / Colombie-Britannique,5915,Greater Vancouver
 1101300,5931021,Squamish-Lillooet D,59,British Columbia / Colombie-Britannique,5931,Squamish-Lillooet
 1101708,5915004,Surrey,59,British Columbia / Colombie-Britannique,5915,Greater Vancouver
 1102221,5909035,Fraser Valley H,59,British Columbia / Colombie-Britannique,5909,Fraser Valley
@@ -438,6 +439,7 @@ CLIMATE_IDENTIFIER,CSDUID,CSDNAME,PRUID,PRNAME,CDUID,CDNAME
 1128584,5937021,North Okanagan C,59,British Columbia / Colombie-Britannique,5937,North Okanagan
 112FN0M,5907024,Princeton,59,British Columbia / Colombie-Britannique,5907,Okanagan-Similkameen
 112G8L1,5907035,Summerland,59,British Columbia / Colombie-Britannique,5907,Okanagan-Similkameen
+1135126,5905037,Midway,59,British Columbia / Colombie-Britannique,5905,Kootenay Boundary
 1140876,5905050,Kootenay Boundary C / Christina Lake,59,British Columbia / Colombie-Britannique,5905,Kootenay Boundary
 1141455,5903045,Castlegar,59,British Columbia / Colombie-Britannique,5903,Central Kootenay
 1141457,5903058,Central Kootenay J,59,British Columbia / Colombie-Britannique,5903,Central Kootenay
