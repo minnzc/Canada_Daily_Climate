@@ -928,6 +928,7 @@ CLIMATE_IDENTIFIER,CSDUID,CSDNAME,PRUID,PRNAME,CDUID,CDNAME
 6104725,3507021,Leeds and the Thousand Islands,35,Ontario,3507,Leeds and Grenville
 6105397,3501042,North Stormont,35,Ontario,3501,"Stormont, Dundas and Glengarry"
 6105762,3510045,North Frontenac,35,Ontario,3510,Frontenac
+6105976,3506008,Ottawa,35,Ontario,3506,Ottawa
 6105978,3506008,Ottawa,35,Ontario,3506,Ottawa
 6106001,3506008,Ottawa,35,Ontario,3506,Ottawa
 6106367,3547076,Petawawa,35,Ontario,3547,Renfrew
@@ -1224,6 +1225,7 @@ CLIMATE_IDENTIFIER,CSDUID,CSDNAME,PRUID,PRNAME,CDUID,CDNAME
 4047240,4713062,Scott,47,Saskatchewan,4713,Division No. 13
 4047644,4712069,Glenside No. 377,47,Saskatchewan,4712,Division No. 12
 4048521,4717017,Eldon No. 471,47,Saskatchewan,4717,Division No. 17
+4053264,4715057,St. Louis No. 431,47,Saskatchewan,4715,Division No. 15
 4055079,4714047,Star City No. 428,47,Saskatchewan,4714,Division No. 14
 4055736,4711026,Rudy No. 284,47,Saskatchewan,4711,Division No. 11
 4056121,4715044,Three Lakes No. 400,47,Saskatchewan,4715,Division No. 15
