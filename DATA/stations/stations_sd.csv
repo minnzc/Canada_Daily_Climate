@@ -300,6 +300,7 @@ CLIMATE_IDENTIFIER,CSDUID,CSDNAME,PRUID,PRNAME,CDUID,CDNAME
 10253G0,5921007,Nanaimo,59,British Columbia / Colombie-Britannique,5921,Nanaimo
 1026271,5943023,Port Hardy,59,British Columbia / Colombie-Britannique,5943,Mount Waddington
 1026562,5921023,Qualicum Beach,59,British Columbia / Colombie-Britannique,5921,Nanaimo
+1026639,5924812,Quinsam 12,59,British Columbia / Colombie-Britannique,5924,Strathcona
 1027403,5927020,Powell River E,59,British Columbia / Colombie-Britannique,5927,Powell River
 102BFHH,5921014,Nanaimo B,59,British Columbia / Colombie-Britannique,5921,Nanaimo
 1031316,5923047,Alberni-Clayoquot A,59,British Columbia / Colombie-Britannique,5923,Alberni-Clayoquot
@@ -592,6 +593,7 @@ CLIMATE_IDENTIFIER,CSDUID,CSDNAME,PRUID,PRNAME,CDUID,CDNAME
 8101794,1303012,Oromocto,13,New Brunswick / Nouveau-Brunswick,1303,Sunbury
 8102326,1308026,Carleton,13,New Brunswick / Nouveau-Brunswick,1308,Kent
 8102536,1310026,Bright,13,New Brunswick / Nouveau-Brunswick,1310,York
+8102848,1305024,Waterford,13,New Brunswick / Nouveau-Brunswick,1305,Kings
 8103050,1315029,Shippagan,13,New Brunswick / Nouveau-Brunswick,1315,Gloucester
 8103201,1307045,Dieppe,13,New Brunswick / Nouveau-Brunswick,1307,Westmorland
 8103202,1307045,Dieppe,13,New Brunswick / Nouveau-Brunswick,1307,Westmorland
