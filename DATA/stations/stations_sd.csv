@@ -591,6 +591,7 @@ CLIMATE_IDENTIFIER,CSDUID,CSDNAME,PRUID,PRNAME,CDUID,CDNAME
 8101746,1306007,Alma,13,New Brunswick / Nouveau-Brunswick,1306,Albert
 8101792,1303011,Burton,13,New Brunswick / Nouveau-Brunswick,1303,Sunbury
 8101794,1303012,Oromocto,13,New Brunswick / Nouveau-Brunswick,1303,Sunbury
+8101925,1302052,Grand Manan,13,New Brunswick / Nouveau-Brunswick,1302,Charlotte
 8102326,1308026,Carleton,13,New Brunswick / Nouveau-Brunswick,1308,Kent
 8102536,1310026,Bright,13,New Brunswick / Nouveau-Brunswick,1310,York
 8102848,1305024,Waterford,13,New Brunswick / Nouveau-Brunswick,1305,Kings
@@ -647,6 +648,7 @@ CLIMATE_IDENTIFIER,CSDUID,CSDNAME,PRUID,PRNAME,CDUID,CDNAME
 8502400,1011030,Hopedale,10,Newfoundland and Labrador / Terre-Neuve-et-Labrador,1011,Division No. 11
 8502580,1011005,"Division No. 11, Subd. C",10,Newfoundland and Labrador / Terre-Neuve-et-Labrador,1011,Division No. 11
 8502592,1010008,"Division No. 10, Subd. B",10,Newfoundland and Labrador / Terre-Neuve-et-Labrador,1010,Division No. 10
+8502799,1011040,"Division No. 11, Subd. E",10,Newfoundland and Labrador / Terre-Neuve-et-Labrador,1011,Division No. 11
 8502810,1011040,"Division No. 11, Subd. E",10,Newfoundland and Labrador / Terre-Neuve-et-Labrador,1011,Division No. 11
 8503249,1011040,"Division No. 11, Subd. E",10,Newfoundland and Labrador / Terre-Neuve-et-Labrador,1011,Division No. 11
 8504177,1010034,Wabush,10,Newfoundland and Labrador / Terre-Neuve-et-Labrador,1010,Division No. 10
