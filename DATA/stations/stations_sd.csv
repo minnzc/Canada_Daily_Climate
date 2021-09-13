@@ -263,6 +263,7 @@ CLIMATE_IDENTIFIER,CSDUID,CSDNAME,PRUID,PRNAME,CDUID,CDNAME
 3081680,4812002,Cold Lake,48,Alberta,4812,Division No. 12
 3081690,4812004,Bonnyville No. 87,48,Alberta,4812,Division No. 12
 1011500,5919008,North Cowichan,59,British Columbia / Colombie-Britannique,5919,Cowichan Valley
+1012055,5919033,Cowichan Valley F,59,British Columbia / Colombie-Britannique,5919,Cowichan Valley
 1012475,5917054,Juan de Fuca (Part 1),59,British Columbia / Colombie-Britannique,5917,Capital
 1012710,5917054,Juan de Fuca (Part 1),59,British Columbia / Colombie-Britannique,5917,Capital
 10130MN,5917029,Southern Gulf Islands,59,British Columbia / Colombie-Britannique,5917,Capital
@@ -760,6 +761,7 @@ CLIMATE_IDENTIFIER,CSDUID,CSDNAME,PRUID,PRNAME,CDUID,CDNAME
 220CQHR,6104006,Sambaa Ke,61,Northwest Territories / Territoires du Nord-Ouest,6104,Region 4
 220LQJJ,6101063,"Region 1, Unorganized",61,Northwest Territories / Territoires du Nord-Ouest,6101,Region 1
 220N003,6104097,"Region 4, Unorganized",61,Northwest Territories / Territoires du Nord-Ouest,6104,Region 4
+220N004,6106097,"Region 6, Unorganized",61,Northwest Territories / Territoires du Nord-Ouest,6106,Region 6
 220N005,6101063,"Region 1, Unorganized",61,Northwest Territories / Territoires du Nord-Ouest,6101,Region 1
 2500440,6101063,"Region 1, Unorganized",61,Northwest Territories / Territoires du Nord-Ouest,6101,Region 1
 2501419,6101063,"Region 1, Unorganized",61,Northwest Territories / Territoires du Nord-Ouest,6101,Region 1
