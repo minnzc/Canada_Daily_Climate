@@ -8,7 +8,7 @@ climate variables data set.
 
 Author:       Minnie Cui
 Date written: 20 April 2021
-Last updated: 15 May 2021
+Last updated: 13 September 2021
 """
 ###############################################################################
 # DEFINE REQUIRED VARIABLES
@@ -59,7 +59,7 @@ if len(os.listdir("./daily_climate")) != 0 and todayfile not in os.listdir("./da
 
 # Update master data with today's data if it hasn't been pulled already
 if todayfile not in os.listdir("./daily_climate"):
-    url = "https://geo.weather.gc.ca/geomet/features/collections/climate-daily/items?time=" + str(start) + "%2000:00:00/" + str(today) + "%2000:00:00&sortby=PROVINCE_CODE,CLIMATE_IDENTIFIER,LOCAL_DATE&f=csv&limit=500000&startindex=0"
+    url = "https://api.weather.gc.ca/collections/climate-daily/items?datetime=" + str(start) + "%2000:00:00/" + str(today) + "%2000:00:00&sortby=PROVINCE_CODE,CLIMATE_IDENTIFIER,LOCAL_DATE&f=csv&limit=500000&startindex=0"
     master = pd.read_csv(url, parse_dates = ["LOCAL_DATE"], dtype = str)
         
     # Save new master to directory
