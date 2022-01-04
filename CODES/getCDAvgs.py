@@ -42,7 +42,7 @@ print("\nProject directory successfully set to: " + directory)
 print("\nGetting latest climate data...")
 
 # Generate today's date and first day to pull variables
-#today = date(2020, 12, 31)
+#today = date(2021, 12, 31)
 today = date.today()
 this_year = today.year
 start = date(this_year, 1, 1)
