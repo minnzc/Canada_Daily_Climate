@@ -72,7 +72,6 @@ CLIMATE_IDENTIFIER,CSDUID,CSDNAME,PRUID,PRNAME,CDUID,CDNAME
 3016802,4810042,Vermilion,48,Alberta,4810,Division No. 10
 3016841,4810016,Beaver County,48,Alberta,4810,Division No. 10
 3016852,4812022,Smoky Lake County,48,Alberta,4812,Division No. 12
-3016860,4811032,Brazeau County,48,Alberta,4811,Division No. 11
 3016GF0,4810028,Vegreville,48,Alberta,4810,Division No. 10
 3017282,4811001,Wetaskiwin County No. 10,48,Alberta,4811,Division No. 11
 3017705,4804012,Special Area No. 3,48,Alberta,4804,Division No.  4
@@ -104,7 +103,7 @@ CLIMATE_IDENTIFIER,CSDUID,CSDNAME,PRUID,PRNAME,CDUID,CDNAME
 3025013,4802031,Newell County,48,Alberta,4802,Division No.  2
 3025243,4804004,Special Area No. 2,48,Alberta,4804,Division No.  4
 3025297,4808022,Lacombe County,48,Alberta,4808,Division No.  8
-3025481,4808001,Red Deer County,48,Alberta,4808,Division No.  8
+3025484,4808001,Red Deer County,48,Alberta,4808,Division No.  8
 3025750,4811059,Sturgeon County,48,Alberta,4811,Division No. 11
 3025768,4801003,Cypress County,48,Alberta,4801,Division No.  1
 3025890,4804004,Special Area No. 2,48,Alberta,4804,Division No.  4
@@ -122,7 +121,6 @@ CLIMATE_IDENTIFIER,CSDUID,CSDNAME,PRUID,PRNAME,CDUID,CDNAME
 3030690,4806001,Foothills No. 31,48,Alberta,4806,Division No.  6
 3030720,4803001,Cardston County,48,Alberta,4803,Division No.  3
 3030768,4801008,Forty Mile County No. 8,48,Alberta,4801,Division No.  1
-3030772,4801014,Bow Island,48,Alberta,4801,Division No.  1
 3030772,4801008,Forty Mile County No. 8,48,Alberta,4801,Division No.  1
 3030830,4803801,Piikani 147,48,Alberta,4803,Division No.  3
 3030879,4801003,Cypress County,48,Alberta,4801,Division No.  1
@@ -136,7 +134,6 @@ CLIMATE_IDENTIFIER,CSDUID,CSDNAME,PRUID,PRNAME,CDUID,CDNAME
 3031640,4803018,Willow Creek No. 26,48,Alberta,4803,Division No.  3
 3031875,4806016,Calgary,48,Alberta,4806,Division No.  6
 3032422,4802021,Taber,48,Alberta,4802,Division No.  2
-3032450,4801008,Forty Mile County No. 8,48,Alberta,4801,Division No.  1
 3032550,4802021,Taber,48,Alberta,4802,Division No.  2
 3032642,4801008,Forty Mile County No. 8,48,Alberta,4801,Division No.  1
 3032683,4803018,Willow Creek No. 26,48,Alberta,4803,Division No.  3
@@ -194,7 +191,6 @@ CLIMATE_IDENTIFIER,CSDUID,CSDNAME,PRUID,PRNAME,CDUID,CDNAME
 3050965,4803001,Cardston County,48,Alberta,4803,Division No.  3
 3051R4R,4815007,Crowsnest Pass,48,Alberta,4815,Division No. 15
 3053536,4815033,Jasper,48,Alberta,4815,Division No. 15
-3053600,4815013,Kananaskis,48,Alberta,4815,Division No. 15
 3054843,4809002,Clearwater County,48,Alberta,4809,Division No.  9
 3055119,4806001,Foothills No. 31,48,Alberta,4806,Division No.  6
 3056100,4803001,Cardston County,48,Alberta,4803,Division No.  3
@@ -205,10 +201,8 @@ CLIMATE_IDENTIFIER,CSDUID,CSDNAME,PRUID,PRNAME,CDUID,CDNAME
 3060406,4813044,Athabasca County,48,Alberta,4813,Division No. 13
 3060535,4813018,Barrhead County No. 11,48,Alberta,4813,Division No. 13
 3060903,4814003,Yellowhead County,48,Alberta,4814,Division No. 14
-3060L20,4813048,Athabasca,48,Alberta,4813,Division No. 13
 3061201,4813018,Barrhead County No. 11,48,Alberta,4813,Division No. 13
 3061350,4814003,Yellowhead County,48,Alberta,4814,Division No. 14
-3061975,4813028,Westlock County,48,Alberta,4813,Division No. 13
 3062239,4814024,Edson,48,Alberta,4814,Division No. 14
 3062246,4814024,Edson,48,Alberta,4814,Division No. 14
 3062451,4811034,Parkland County,48,Alberta,4811,Division No. 11
@@ -228,7 +222,6 @@ CLIMATE_IDENTIFIER,CSDUID,CSDNAME,PRUID,PRNAME,CDUID,CDNAME
 3065995,4817029,Slave Lake,48,Alberta,4817,Division No. 17
 3065997,4817029,Slave Lake,48,Alberta,4817,Division No. 17
 3066367,4813028,Westlock County,48,Alberta,4813,Division No. 13
-306A009,4814019,Hinton,48,Alberta,4814,Division No. 14
 306GE70,4815037,Improvement District No. 12 Jasper Park,48,Alberta,4815,Division No. 15
 3070495,4819041,Smoky River No. 130,48,Alberta,4819,Division No. 19
 3070600,4819006,Grande Prairie County No. 1,48,Alberta,4819,Division No. 19
@@ -236,7 +229,6 @@ CLIMATE_IDENTIFIER,CSDUID,CSDNAME,PRUID,PRNAME,CDUID,CDNAME
 3071661,4817076,Northern Lights County,48,Alberta,4817,Division No. 17
 3071957,4817076,Northern Lights County,48,Alberta,4817,Division No. 17
 3072151,4819049,Birch Hills County,48,Alberta,4819,Division No. 19
-3072246,4816037,Wood Buffalo,48,Alberta,4816,Division No. 16
 3072525,4819066,Fairview No. 136,48,Alberta,4819,Division No. 19
 3072655,4816037,Wood Buffalo,48,Alberta,4816,Division No. 16
 3072659,4816037,Wood Buffalo,48,Alberta,4816,Division No. 16
@@ -244,6 +236,8 @@ CLIMATE_IDENTIFIER,CSDUID,CSDNAME,PRUID,PRNAME,CDUID,CDNAME
 3072921,4819012,Grande Prairie,48,Alberta,4819,Division No. 19
 3073071,4817076,Northern Lights County,48,Alberta,4817,Division No. 17
 3073140,4817095,Mackenzie County,48,Alberta,4817,Division No. 17
+3073146,4817095,Mackenzie County,48,Alberta,4817,Division No. 17
+3073148,4817095,Mackenzie County,48,Alberta,4817,Division No. 17
 3073535,4819041,Smoky River No. 130,48,Alberta,4819,Division No. 19
 3073644,4817076,Northern Lights County,48,Alberta,4817,Division No. 17
 3073730,4817095,Mackenzie County,48,Alberta,4817,Division No. 17
@@ -264,10 +258,8 @@ CLIMATE_IDENTIFIER,CSDUID,CSDNAME,PRUID,PRNAME,CDUID,CDNAME
 3081680,4812002,Cold Lake,48,Alberta,4812,Division No. 12
 3081690,4812004,Bonnyville No. 87,48,Alberta,4812,Division No. 12
 1011500,5919008,North Cowichan,59,British Columbia / Colombie-Britannique,5919,Cowichan Valley
-1012055,5919033,Cowichan Valley F,59,British Columbia / Colombie-Britannique,5919,Cowichan Valley
 1012475,5917054,Juan de Fuca (Part 1),59,British Columbia / Colombie-Britannique,5917,Capital
 1012710,5917054,Juan de Fuca (Part 1),59,British Columbia / Colombie-Britannique,5917,Capital
-10130MN,5917029,Southern Gulf Islands,59,British Columbia / Colombie-Britannique,5917,Capital
 1014820,5919043,Cowichan Valley A,59,British Columbia / Colombie-Britannique,5919,Cowichan Valley
 1015105,5917042,Metchosin,59,British Columbia / Colombie-Britannique,5917,Capital
 1015628,5919008,North Cowichan,59,British Columbia / Colombie-Britannique,5919,Cowichan Valley
@@ -276,7 +268,6 @@ CLIMATE_IDENTIFIER,CSDUID,CSDNAME,PRUID,PRNAME,CDUID,CDNAME
 1016335,5917056,Juan de Fuca (Part 2),59,British Columbia / Colombie-Britannique,5917,Capital
 1016640,5917042,Metchosin,59,British Columbia / Colombie-Britannique,5917,Capital
 1016940,5917005,North Saanich,59,British Columbia / Colombie-Britannique,5917,Capital
-1016995,5917027,Saltspring Island,59,British Columbia / Colombie-Britannique,5917,Capital
 1016RM0,5917015,Central Saanich,59,British Columbia / Colombie-Britannique,5917,Capital
 1017099,5917029,Southern Gulf Islands,59,British Columbia / Colombie-Britannique,5917,Capital
 1017101,5917029,Southern Gulf Islands,59,British Columbia / Colombie-Britannique,5917,Capital
@@ -289,7 +280,6 @@ CLIMATE_IDENTIFIER,CSDUID,CSDNAME,PRUID,PRNAME,CDUID,CDNAME
 1020590,5921030,Nanaimo E,59,British Columbia / Colombie-Britannique,5921,Nanaimo
 1021261,5924034,Campbell River,59,British Columbia / Colombie-Britannique,5924,Strathcona
 1021270,5924034,Campbell River,59,British Columbia / Colombie-Britannique,5924,Strathcona
-1021330,5924817,Cape Mudge 10,59,British Columbia / Colombie-Britannique,5924,Strathcona
 1021480,5924048,Strathcona A,59,British Columbia / Colombie-Britannique,5924,Strathcona
 1021830,5926005,Comox,59,British Columbia / Colombie-Britannique,5926,Comox Valley
 1021989,5926024,Comox Valley C (Puntledge - Black Creek),59,British Columbia / Colombie-Britannique,5926,Comox Valley
@@ -305,7 +295,6 @@ CLIMATE_IDENTIFIER,CSDUID,CSDNAME,PRUID,PRNAME,CDUID,CDNAME
 1026639,5924812,Quinsam 12,59,British Columbia / Colombie-Britannique,5924,Strathcona
 1027403,5927020,Powell River E,59,British Columbia / Colombie-Britannique,5927,Powell River
 102BFHH,5921014,Nanaimo B,59,British Columbia / Colombie-Britannique,5921,Nanaimo
-1030230,5923035,Alberni-Clayoquot D,59,British Columbia / Colombie-Britannique,5923,Alberni-Clayoquot
 1031316,5923047,Alberni-Clayoquot A,59,British Columbia / Colombie-Britannique,5923,Alberni-Clayoquot
 1032730,5923049,Alberni-Clayoquot C,59,British Columbia / Colombie-Britannique,5923,Alberni-Clayoquot
 1032731,5923049,Alberni-Clayoquot C,59,British Columbia / Colombie-Britannique,5923,Alberni-Clayoquot
@@ -371,7 +360,6 @@ CLIMATE_IDENTIFIER,CSDUID,CSDNAME,PRUID,PRNAME,CDUID,CDNAME
 1068134,5949011,Terrace,59,British Columbia / Colombie-Britannique,5949,Kitimat-Stikine
 1068250,5947021,Skeena-Queen Charlotte C,59,British Columbia / Colombie-Britannique,5947,Skeena-Queen Charlotte
 106D289,5949005,Kitimat,59,British Columbia / Colombie-Britannique,5949,Kitimat-Stikine
-1072692,5951028,Bulkley-Nechako B,59,British Columbia / Colombie-Britannique,5951,Bulkley-Nechako
 1073615,5951034,Houston,59,British Columbia / Colombie-Britannique,5951,Bulkley-Nechako
 1077499,5951043,Smithers,59,British Columbia / Colombie-Britannique,5951,Bulkley-Nechako
 1077501,5951043,Smithers,59,British Columbia / Colombie-Britannique,5951,Bulkley-Nechako
@@ -393,7 +381,6 @@ CLIMATE_IDENTIFIER,CSDUID,CSDNAME,PRUID,PRNAME,CDUID,CDNAME
 1096631,5941013,Quesnel,59,British Columbia / Colombie-Britannique,5941,Cariboo
 1097646,5941014,Cariboo F,59,British Columbia / Colombie-Britannique,5941,Cariboo
 1098941,5941009,Williams Lake,59,British Columbia / Colombie-Britannique,5941,Cariboo
-1098D90,5951007,Vanderhoof,59,British Columbia / Colombie-Britannique,5951,Bulkley-Nechako
 1100031,5909052,Abbotsford,59,British Columbia / Colombie-Britannique,5909,Fraser Valley
 1100032,5909052,Abbotsford,59,British Columbia / Colombie-Britannique,5909,Fraser Valley
 1100119,5909032,Kent,59,British Columbia / Colombie-Britannique,5909,Fraser Valley
@@ -444,7 +431,6 @@ CLIMATE_IDENTIFIER,CSDUID,CSDNAME,PRUID,PRNAME,CDUID,CDNAME
 1128584,5937021,North Okanagan C,59,British Columbia / Colombie-Britannique,5937,North Okanagan
 112FN0M,5907024,Princeton,59,British Columbia / Colombie-Britannique,5907,Okanagan-Similkameen
 112G8L1,5907035,Summerland,59,British Columbia / Colombie-Britannique,5907,Okanagan-Similkameen
-1135126,5905037,Midway,59,British Columbia / Colombie-Britannique,5905,Kootenay Boundary
 1140876,5905050,Kootenay Boundary C / Christina Lake,59,British Columbia / Colombie-Britannique,5905,Kootenay Boundary
 1141455,5903045,Castlegar,59,British Columbia / Colombie-Britannique,5903,Central Kootenay
 1141457,5903058,Central Kootenay J,59,British Columbia / Colombie-Britannique,5903,Central Kootenay
@@ -475,8 +461,6 @@ CLIMATE_IDENTIFIER,CSDUID,CSDNAME,PRUID,PRNAME,CDUID,CDNAME
 1163781,5933042,Kamloops,59,British Columbia / Colombie-Britannique,5933,Thompson-Nicola
 1163842,5933042,Kamloops,59,British Columbia / Colombie-Britannique,5933,Thompson-Nicola
 1165793,5941016,Cariboo H,59,British Columbia / Colombie-Britannique,5941,Cariboo
-1166658,5933039,Thompson-Nicola J (Copper Desert Country),59,British Columbia / Colombie-Britannique,5933,Thompson-Nicola
-1167337,5939039,Columbia-Shuswap D,59,British Columbia / Colombie-Britannique,5939,Columbia-Shuswap
 1168204,5933045,Sun Peaks Mountain,59,British Columbia / Colombie-Britannique,5933,Thompson-Nicola
 1168520,5933068,Thompson-Nicola A (Wells Gray Country),59,British Columbia / Colombie-Britannique,5933,Thompson-Nicola
 116C8P0,5933042,Kamloops,59,British Columbia / Colombie-Britannique,5933,Thompson-Nicola
@@ -490,7 +474,6 @@ CLIMATE_IDENTIFIER,CSDUID,CSDNAME,PRUID,PRNAME,CDUID,CDNAME
 1176745,5939019,Revelstoke,59,British Columbia / Colombie-Britannique,5939,Columbia-Shuswap
 1176755,5939019,Revelstoke,59,British Columbia / Colombie-Britannique,5939,Columbia-Shuswap
 11790J1,5939011,Columbia-Shuswap A,59,British Columbia / Colombie-Britannique,5939,Columbia-Shuswap
-117R00H,5939011,Columbia-Shuswap A,59,British Columbia / Colombie-Britannique,5939,Columbia-Shuswap
 1181508,5955010,Chetwynd,59,British Columbia / Colombie-Britannique,5955,Peace River
 1181513,5955010,Chetwynd,59,British Columbia / Colombie-Britannique,5955,Peace River
 1182289,5955014,Dawson Creek,59,British Columbia / Colombie-Britannique,5955,Peace River
@@ -501,7 +484,6 @@ CLIMATE_IDENTIFIER,CSDUID,CSDNAME,PRUID,PRNAME,CDUID,CDNAME
 1192946,5959007,Northern Rockies,59,British Columbia / Colombie-Britannique,5959,Northern Rockies
 1192948,5959007,Northern Rockies,59,British Columbia / Colombie-Britannique,5959,Northern Rockies
 119BLM0,5949038,Kitimat-Stikine F,59,British Columbia / Colombie-Britannique,5949,Kitimat-Stikine
-1200560,5957022,Stikine Region,59,British Columbia / Colombie-Britannique,5957,Stikine
 1206197,5957022,Stikine Region,59,British Columbia / Colombie-Britannique,5957,Stikine
 5010140,4604057,Argyle,46,Manitoba,4604,Division No.  4
 5010481,4607062,Brandon,46,Manitoba,4607,Division No.  7
@@ -545,11 +527,9 @@ CLIMATE_IDENTIFIER,CSDUID,CSDNAME,PRUID,PRNAME,CDUID,CDNAME
 5031041,4619045,"Division No. 19, Unorganized",46,Manitoba,4619,Division No. 19
 5031042,4618031,Gimli,46,Manitoba,4618,Division No. 18
 5031201,4601071,Alexander,46,Manitoba,4601,Division No.  1
-5031310,4618068,Fisher,46,Manitoba,4618,Division No. 18
 5031320,4601079,Shoal Lake (Part) 40,46,Manitoba,4601,Division No.  1
 5031A10,4621025,Grand Rapids,46,Manitoba,4621,Division No. 21
 5032161,4601057,Lac du Bonnet,46,Manitoba,4601,Division No.  1
-5032360,4601043,Reynolds,46,Manitoba,4601,Division No.  1
 5032951,4619045,"Division No. 19, Unorganized",46,Manitoba,4619,Division No. 19
 503B1ER,4601051,Pinawa,46,Manitoba,4601,Division No.  1
 5040166,4608046,North Norfolk,46,Manitoba,4608,Division No.  8
@@ -561,7 +541,6 @@ CLIMATE_IDENTIFIER,CSDUID,CSDNAME,PRUID,PRNAME,CDUID,CDNAME
 504K0NM,4618093,"Division No. 18, Unorganized, West Part",46,Manitoba,4618,Division No. 18
 504K80K,4620042,Swan Valley West,46,Manitoba,4620,Division No. 20
 5050919,4621078,"Division No. 21, Unorganized",46,Manitoba,4621,Division No. 21
-5050920,4718051,Creighton,47,Saskatchewan,4718,Division No. 18
 5050973,4621078,"Division No. 21, Unorganized",46,Manitoba,4621,Division No. 21
 5052882,4621045,The Pas,46,Manitoba,4621,Division No. 21
 5052890,4621045,The Pas,46,Manitoba,4621,Division No. 21
@@ -573,25 +552,23 @@ CLIMATE_IDENTIFIER,CSDUID,CSDNAME,PRUID,PRNAME,CDUID,CDNAME
 5061022,4623022,Gillam,46,Manitoba,4623,Division No. 23
 5061025,4623022,Gillam,46,Manitoba,4623,Division No. 23
 5061374,4622046,"Division No. 22, Unorganized",46,Manitoba,4622,Division No. 22
-5061375,4622046,"Division No. 22, Unorganized",46,Manitoba,4622,Division No. 22
 5061422,4622046,"Division No. 22, Unorganized",46,Manitoba,4622,Division No. 22
 5061645,4623047,Lynn Lake,46,Manitoba,4623,Division No. 23
 5061649,4623047,Lynn Lake,46,Manitoba,4623,Division No. 23
 5062040,4622058,Norway House 17,46,Manitoba,4622,Division No. 22
 5062835,4623062,"Division No. 23, Unorganized",46,Manitoba,4623,Division No. 23
 5062840,4623062,"Division No. 23, Unorganized",46,Manitoba,4623,Division No. 23
+5062918,4622046,"Division No. 22, Unorganized",46,Manitoba,4622,Division No. 22
 5062921,4622046,"Division No. 22, Unorganized",46,Manitoba,4622,Division No. 22
 8100300,1312004,Perth,13,New Brunswick / Nouveau-Brunswick,1312,Victoria
 8100467,1315026,Caraquet,13,New Brunswick / Nouveau-Brunswick,1315,Gloucester
 8100468,1315026,Caraquet,13,New Brunswick / Nouveau-Brunswick,1315,Gloucester
 8100506,1315008,Bathurst,13,New Brunswick / Nouveau-Brunswick,1315,Gloucester
-8100593,1308004,Wellington,13,New Brunswick / Nouveau-Brunswick,1308,Kent
 8100885,1314004,Charlo,13,New Brunswick / Nouveau-Brunswick,1314,Restigouche
 8100989,1309050,Miramichi,13,New Brunswick / Nouveau-Brunswick,1309,Northumberland
 8101201,1309021,Blissfield,13,New Brunswick / Nouveau-Brunswick,1309,Northumberland
 8101303,1313022,Saint-Joseph,13,New Brunswick / Nouveau-Brunswick,1313,Madawaska
 8101505,1303008,Lincoln,13,New Brunswick / Nouveau-Brunswick,1303,Sunbury
-8101507,1310032,Fredericton,13,New Brunswick / Nouveau-Brunswick,1310,York
 8101605,1310032,Fredericton,13,New Brunswick / Nouveau-Brunswick,1310,York
 8101746,1306007,Alma,13,New Brunswick / Nouveau-Brunswick,1306,Albert
 8101792,1303011,Burton,13,New Brunswick / Nouveau-Brunswick,1303,Sunbury
@@ -627,17 +604,14 @@ CLIMATE_IDENTIFIER,CSDUID,CSDNAME,PRUID,PRNAME,CDUID,CDNAME
 8401705,1006009,Gander,10,Newfoundland and Labrador / Terre-Neuve-et-Labrador,1006,Division No.  6
 8402520,1008074,"Division No.  8, Subd. A",10,Newfoundland and Labrador / Terre-Neuve-et-Labrador,1008,Division No.  8
 8402544,1007031,"Division No.  7, Subd. E",10,Newfoundland and Labrador / Terre-Neuve-et-Labrador,1007,Division No.  7
-8402644,1008065,"Division No.  8, Subd. P",10,Newfoundland and Labrador / Terre-Neuve-et-Labrador,1008,Division No.  8
 8402757,1006028,Millertown,10,Newfoundland and Labrador / Terre-Neuve-et-Labrador,1006,Division No.  6
 8402980,1003031,"Division No.  3, Subd. H",10,Newfoundland and Labrador / Terre-Neuve-et-Labrador,1003,Division No.  3
-8403097,1009009,"Division No.  9, Subd. A",10,Newfoundland and Labrador / Terre-Neuve-et-Labrador,1009,Division No.  9
 8403255,1003006,"Division No.  3, Subd. B",10,Newfoundland and Labrador / Terre-Neuve-et-Labrador,1003,Division No.  3
 8403389,1009031,"Division No.  9, Subd. D",10,Newfoundland and Labrador / Terre-Neuve-et-Labrador,1009,Division No.  9
 8403399,1009031,"Division No.  9, Subd. D",10,Newfoundland and Labrador / Terre-Neuve-et-Labrador,1009,Division No.  9
 8403505,1001519,St. John's,10,Newfoundland and Labrador / Terre-Neuve-et-Labrador,1001,Division No.  1
 8403603,1001519,St. John's,10,Newfoundland and Labrador / Terre-Neuve-et-Labrador,1001,Division No.  1
 8403619,1002008,St. Lawrence,10,Newfoundland and Labrador / Terre-Neuve-et-Labrador,1002,Division No.  2
-8403690,1005003,"Division No.  5, Subd. G",10,Newfoundland and Labrador / Terre-Neuve-et-Labrador,1005,Division No.  5
 8403801,1004019,Stephenville,10,Newfoundland and Labrador / Terre-Neuve-et-Labrador,1004,Division No.  4
 8403820,1004019,Stephenville,10,Newfoundland and Labrador / Terre-Neuve-et-Labrador,1004,Division No.  4
 8403851,1007038,"Division No.  7, Subd. D",10,Newfoundland and Labrador / Terre-Neuve-et-Labrador,1007,Division No.  7
@@ -648,7 +622,6 @@ CLIMATE_IDENTIFIER,CSDUID,CSDNAME,PRUID,PRNAME,CDUID,CDNAME
 840BR7C,1007056,"Division No.  7, Subd. A",10,Newfoundland and Labrador / Terre-Neuve-et-Labrador,1007,Division No.  7
 840KN90,1002044,"Division No.  2, Subd. L",10,Newfoundland and Labrador / Terre-Neuve-et-Labrador,1002,Division No.  2
 8501106,1010008,"Division No. 10, Subd. B",10,Newfoundland and Labrador / Terre-Neuve-et-Labrador,1010,Division No. 10
-8501130,1010029,"Division No. 10, Subd. D",10,Newfoundland and Labrador / Terre-Neuve-et-Labrador,1010,Division No. 10
 8501131,1010029,"Division No. 10, Subd. D",10,Newfoundland and Labrador / Terre-Neuve-et-Labrador,1010,Division No. 10
 8501900,1010025,Happy Valley-Goose Bay,10,Newfoundland and Labrador / Terre-Neuve-et-Labrador,1010,Division No. 10
 8502400,1011030,Hopedale,10,Newfoundland and Labrador / Terre-Neuve-et-Labrador,1011,Division No. 11
@@ -660,7 +633,6 @@ CLIMATE_IDENTIFIER,CSDUID,CSDNAME,PRUID,PRNAME,CDUID,CDNAME
 8504177,1010034,Wabush,10,Newfoundland and Labrador / Terre-Neuve-et-Labrador,1010,Division No. 10
 8200255,1201001,Barrington,12,Nova Scotia / Nouvelle-Écosse,1201,Shelburne
 8200558,1209034,Halifax,12,Nova Scotia / Nouvelle-Écosse,1209,Halifax
-8200573,1209034,Halifax,12,Nova Scotia / Nouvelle-Écosse,1209,Halifax
 8200574,1209034,Halifax,12,Nova Scotia / Nouvelle-Écosse,1209,Halifax
 8200604,1203004,Digby,12,Nova Scotia / Nouvelle-Écosse,1203,Digby
 8200774,1212001,"Pictou, Subd. A",12,Nova Scotia / Nouvelle-Écosse,1212,Pictou
@@ -695,7 +667,6 @@ CLIMATE_IDENTIFIER,CSDUID,CSDNAME,PRUID,PRNAME,CDUID,CDNAME
 8204495,1215001,"Inverness, Subd. C",12,Nova Scotia / Nouvelle-Écosse,1215,Inverness
 8204703,1209034,Halifax,12,Nova Scotia / Nouvelle-Écosse,1209,Halifax
 8204708,1209034,Halifax,12,Nova Scotia / Nouvelle-Écosse,1209,Halifax
-8204800,1209034,Halifax,12,Nova Scotia / Nouvelle-Écosse,1209,Halifax
 8204909,1218006,"Victoria, Subd. A",12,Nova Scotia / Nouvelle-Écosse,1218,Victoria
 8205092,1209034,Halifax,12,Nova Scotia / Nouvelle-Écosse,1209,Halifax
 8205093,1209034,Halifax,12,Nova Scotia / Nouvelle-Écosse,1209,Halifax
@@ -703,11 +674,9 @@ CLIMATE_IDENTIFIER,CSDUID,CSDNAME,PRUID,PRNAME,CDUID,CDNAME
 8205701,1217030,Cape Breton,12,Nova Scotia / Nouvelle-Écosse,1217,Cape Breton
 8205702,1217030,Cape Breton,12,Nova Scotia / Nouvelle-Écosse,1217,Cape Breton
 8205703,1217030,Cape Breton,12,Nova Scotia / Nouvelle-Écosse,1217,Cape Breton
-8205774,1210008,"Colchester, Subd. B",12,Nova Scotia / Nouvelle-Écosse,1210,Colchester
 8205895,1214006,"Antigonish, Subd. B",12,Nova Scotia / Nouvelle-Écosse,1214,Antigonish
 8206222,1207001,"Kings, Subd. A",12,Nova Scotia / Nouvelle-Écosse,1207,Kings
 8206240,1204010,Queens,12,Nova Scotia / Nouvelle-Écosse,1204,Queens
-8206316,1207021,"Kings, Subd. D",12,Nova Scotia / Nouvelle-Écosse,1207,Kings
 8206491,1202004,Yarmouth,12,Nova Scotia / Nouvelle-Écosse,1202,Yarmouth
 8206495,1202004,Yarmouth,12,Nova Scotia / Nouvelle-Écosse,1202,Yarmouth
 8206496,1202004,Yarmouth,12,Nova Scotia / Nouvelle-Écosse,1202,Yarmouth
@@ -757,16 +726,13 @@ CLIMATE_IDENTIFIER,CSDUID,CSDNAME,PRUID,PRNAME,CDUID,CDNAME
 2203980,6103097,"Region 3, Unorganized",61,Northwest Territories / Territoires du Nord-Ouest,6103,Region 3
 2204005,6104044,Wrigley,61,Northwest Territories / Territoires du Nord-Ouest,6104,Region 4
 2204101,6106023,Yellowknife,61,Northwest Territories / Territoires du Nord-Ouest,6106,Region 6
-2204110,6106023,Yellowknife,61,Northwest Territories / Territoires du Nord-Ouest,6106,Region 6
 2204300,6104097,"Region 4, Unorganized",61,Northwest Territories / Territoires du Nord-Ouest,6104,Region 4
 220B68C,6101063,"Region 1, Unorganized",61,Northwest Territories / Territoires du Nord-Ouest,6101,Region 1
 220B6Q3,6102063,"Region 2, Unorganized",61,Northwest Territories / Territoires du Nord-Ouest,6102,Region 2
 220CQHR,6104006,Sambaa Ke,61,Northwest Territories / Territoires du Nord-Ouest,6104,Region 4
 220LQJJ,6101063,"Region 1, Unorganized",61,Northwest Territories / Territoires du Nord-Ouest,6101,Region 1
 220N003,6104097,"Region 4, Unorganized",61,Northwest Territories / Territoires du Nord-Ouest,6104,Region 4
-220N004,6106097,"Region 6, Unorganized",61,Northwest Territories / Territoires du Nord-Ouest,6106,Region 6
 220N005,6101063,"Region 1, Unorganized",61,Northwest Territories / Territoires du Nord-Ouest,6101,Region 1
-2500440,6101063,"Region 1, Unorganized",61,Northwest Territories / Territoires du Nord-Ouest,6101,Region 1
 2501419,6101063,"Region 1, Unorganized",61,Northwest Territories / Territoires du Nord-Ouest,6101,Region 1
 2502503,6101095,Ulukhaktok,61,Northwest Territories / Territoires du Nord-Ouest,6101,Region 1
 2502505,6101095,Ulukhaktok,61,Northwest Territories / Territoires du Nord-Ouest,6101,Region 1
@@ -873,7 +839,6 @@ CLIMATE_IDENTIFIER,CSDUID,CSDNAME,PRUID,PRNAME,CDUID,CDNAME
 6032125,3560027,Dryden,35,Ontario,3560,Kenora
 6034073,3560010,Kenora,35,Ontario,3560,Kenora
 6034076,3560010,Kenora,35,Ontario,3560,Kenora
-6036904,3560090,"Kenora, Unorganized",35,Ontario,3560,Kenora
 6036907,3560090,"Kenora, Unorganized",35,Ontario,3560,Kenora
 6037201,3560090,"Kenora, Unorganized",35,Ontario,3560,Kenora
 6037776,3560034,Sioux Lookout,35,Ontario,3560,Kenora
@@ -894,7 +859,6 @@ CLIMATE_IDENTIFIER,CSDUID,CSDNAME,PRUID,PRNAME,CDUID,CDNAME
 6048268,3558004,Thunder Bay,35,Ontario,3558,Thunder Bay
 6049095,3558090,"Thunder Bay, Unorganized",35,Ontario,3558,Thunder Bay
 6049443,3558004,Thunder Bay,35,Ontario,3558,Thunder Bay
-6049470,3558090,"Thunder Bay, Unorganized",35,Ontario,3558,Thunder Bay
 6054425,3557095,"Algoma, Unorganized, North Part",35,Ontario,3557,Algoma
 6057591,3557061,Sault Ste. Marie,35,Ontario,3557,Algoma
 6057593,3557061,Sault Ste. Marie,35,Ontario,3557,Algoma
@@ -924,7 +888,6 @@ CLIMATE_IDENTIFIER,CSDUID,CSDNAME,PRUID,PRNAME,CDUID,CDNAME
 6085695,3548044,North Bay,35,Ontario,3548,Nipissing
 6092919,3551017,Northeastern Manitoulin and the Islands,35,Ontario,3551,Manitoulin
 6092920,3551017,Northeastern Manitoulin and the Islands,35,Ontario,3551,Manitoulin
-6093005,3551017,Northeastern Manitoulin and the Islands,35,Ontario,3551,Manitoulin
 6100285,3509030,Mississippi Mills,35,Ontario,3509,Lanark
 6100970,3507014,Elizabethtown-Kitley,35,Ontario,3507,Leeds and Grenville
 6100971,3507015,Brockville,35,Ontario,3507,Leeds and Grenville
@@ -936,10 +899,8 @@ CLIMATE_IDENTIFIER,CSDUID,CSDNAME,PRUID,PRNAME,CDUID,CDNAME
 6104027,3507065,North Grenville,35,Ontario,3507,Leeds and Grenville
 6104142,3510010,Kingston,35,Ontario,3510,Frontenac
 6104152,3510010,Kingston,35,Ontario,3510,Frontenac
-6104725,3507021,Leeds and the Thousand Islands,35,Ontario,3507,Leeds and Grenville
 6105397,3501042,North Stormont,35,Ontario,3501,"Stormont, Dundas and Glengarry"
 6105762,3510045,North Frontenac,35,Ontario,3510,Frontenac
-6105976,3506008,Ottawa,35,Ontario,3506,Ottawa
 6105978,3506008,Ottawa,35,Ontario,3506,Ottawa
 6106001,3506008,Ottawa,35,Ontario,3506,Ottawa
 6106367,3547076,Petawawa,35,Ontario,3547,Renfrew
@@ -952,13 +913,11 @@ CLIMATE_IDENTIFIER,CSDUID,CSDNAME,PRUID,PRNAME,CDUID,CDNAME
 6111769,3543023,Oro-Medonte,35,Ontario,3543,Simcoe
 6111792,3543031,Collingwood,35,Ontario,3543,Simcoe
 6114295,3543019,Ramara,35,Ontario,3543,Simcoe
-6114979,3542004,West Grey,35,Ontario,3542,Grey
 6115529,3544002,Gravenhurst,35,Ontario,3544,Muskoka
 6115811,3543052,Orillia,35,Ontario,3543,Simcoe
 6116257,3549032,Parry Sound,35,Ontario,3549,Parry Sound
 6117684,3543023,Oro-Medonte,35,Ontario,3543,Simcoe
 6117700,3543023,Oro-Medonte,35,Ontario,3543,Simcoe
-6117981,3549012,McMurrich/Monteith,35,Ontario,3549,Parry Sound
 6118240,3542045,The Blue Mountains,35,Ontario,3542,Grey
 6119055,3519070,Georgina,35,Ontario,3519,York
 6119498,3541055,South Bruce Peninsula,35,Ontario,3541,Bruce
@@ -966,17 +925,14 @@ CLIMATE_IDENTIFIER,CSDUID,CSDNAME,PRUID,PRNAME,CDUID,CDNAME
 6119M51,3549005,The Archipelago,35,Ontario,3549,Parry Sound
 611B002,3543003,Adjala-Tosorontio,35,Ontario,3543,Simcoe
 611E001,3543021,Essa,35,Ontario,3543,Simcoe
-61219J2,3541069,Northern Bruce Peninsula,35,Ontario,3541,Bruce
 6122847,3540063,Ashfield-Colborne-Wawanosh,35,Ontario,3540,Huron
 6124127,3541024,Kincardine,35,Ontario,3541,Bruce
 6127510,3538030,Sarnia,35,Ontario,3538,Lambton
 6127519,3538030,Sarnia,35,Ontario,3538,Lambton
 6128330,3541069,Northern Bruce Peninsula,35,Ontario,3541,Bruce
-6129660,3540046,Howick,35,Ontario,3540,Huron
 6130257,3537028,Amherstburg,35,Ontario,3537,Essex
 6131414,3536020,Chatham-Kent,35,Ontario,3536,Chatham-Kent
 6131983,3528052,Norfolk County,35,Ontario,3528,Haldimand-Norfolk
-6132470,3526003,Fort Erie,35,Ontario,3526,Niagara
 6133055,3526065,Grimsby,35,Ontario,3526,Niagara
 6133362,3537016,Essex,35,Ontario,3537,Essex
 6134190,3537013,Kingsville,35,Ontario,3537,Essex
@@ -1000,7 +956,6 @@ CLIMATE_IDENTIFIER,CSDUID,CSDNAME,PRUID,PRNAME,CDUID,CDNAME
 6142286,3523025,Centre Wellington,35,Ontario,3523,Wellington
 6142400,3523025,Centre Wellington,35,Ontario,3523,Wellington
 6142402,3523025,Centre Wellington,35,Ontario,3523,Wellington
-6142803,3523033,Mapleton,35,Ontario,3523,Wellington
 6143089,3523008,Guelph,35,Ontario,3523,Wellington
 6144239,3530035,Woolwich,35,Ontario,3530,Waterloo
 6144473,3539036,London,35,Ontario,3539,Middlesex
@@ -1029,8 +984,6 @@ CLIMATE_IDENTIFIER,CSDUID,CSDNAME,PRUID,PRNAME,CDUID,CDNAME
 6158872,3512015,Quinte West,35,Ontario,3512,Hastings
 6158875,3512015,Quinte West,35,Ontario,3512,Hastings
 6159123,3518029,Uxbridge,35,Ontario,3518,Durham
-615S001,3520005,Toronto,35,Ontario,3520,Toronto
-615S002,3525005,Hamilton,35,Ontario,3525,Hamilton
 6163171,3546024,Dysart et al,35,Ontario,3546,Haliburton
 6166415,3515013,Cavan Monaghan,35,Ontario,3515,Peterborough
 6166456,3515014,Peterborough,35,Ontario,3515,Peterborough
@@ -1039,7 +992,6 @@ CLIMATE_IDENTIFIER,CSDUID,CSDNAME,PRUID,PRNAME,CDUID,CDNAME
 616I001,3512061,Bancroft,35,Ontario,3512,Hastings
 8300301,1102075,Charlottetown,11,Prince Edward Island / Île-du-Prince-Édouard,1102,Queens
 8300418,1101039,Lot 47,11,Prince Edward Island / Île-du-Prince-Édouard,1101,Kings
-8300497,1102042,Lot 23,11,Prince Edward Island / Île-du-Prince-Édouard,1102,Queens
 8300516,1103058,Lot  1,11,Prince Edward Island / Île-du-Prince-Édouard,1103,Prince
 8300562,1101042,Lot 41,11,Prince Edward Island / Île-du-Prince-Édouard,1101,Kings
 8300590,1102052,Lot 34,11,Prince Edward Island / Île-du-Prince-Édouard,1102,Queens
@@ -1115,6 +1067,7 @@ CLIMATE_IDENTIFIER,CSDUID,CSDNAME,PRUID,PRNAME,CDUID,CDNAME
 7051201,2407018,Causapscal,24,Quebec / Québec,2407,La Matapédia
 7052601,2403005,Gaspé,24,Quebec / Québec,2403,La Côte-de-Gaspé
 7052602,2403005,Gaspé,24,Quebec / Québec,2403,La Côte-de-Gaspé
+7052603,2403005,Gaspé,24,Quebec / Québec,2403,La Côte-de-Gaspé
 7053038,2498020,L'Île-d'Anticosti,24,Quebec / Québec,2498,Minganie--Le Golfe-du-Saint-Laurent
 7053254,2401023,Les Îles-de-la-Madeleine,24,Quebec / Québec,2401,Les Îles-de-la-Madeleine
 7053KGR,2401023,Les Îles-de-la-Madeleine,24,Quebec / Québec,2401,Les Îles-de-la-Madeleine
@@ -1126,7 +1079,6 @@ CLIMATE_IDENTIFIER,CSDUID,CSDNAME,PRUID,PRNAME,CDUID,CDNAME
 7056068,2410043,Rimouski,24,Quebec / Québec,2410,Rimouski-Neigette
 7056202,2498020,L'Île-d'Anticosti,24,Quebec / Québec,2498,Minganie--Le Golfe-du-Saint-Laurent
 7056616,2412072,Rivière-du-Loup,24,Quebec / Québec,2412,Rivière-du-Loup
-7056870,2412015,Saint-Antonin,24,Quebec / Québec,2412,Rivière-du-Loup
 705LKPQ,2410043,Rimouski,24,Quebec / Québec,2410,Rimouski-Neigette
 705S002,2404047,Cap-Chat,24,Quebec / Québec,2404,La Haute-Gaspésie
 7060400,2494068,Saguenay,24,Quebec / Québec,2494,Le Saguenay-et-son-Fjord
@@ -1198,7 +1150,6 @@ CLIMATE_IDENTIFIER,CSDUID,CSDNAME,PRUID,PRNAME,CDUID,CDNAME
 4015322,4707038,Moose Jaw No. 161,47,Saskatchewan,4707,Division No.  7
 4015440,4715001,St. Peter No. 369,47,Saskatchewan,4715,Division No. 15
 4015800,4701036,Moose Creek No. 33,47,Saskatchewan,4701,Division No.  1
-4015870,4709023,Insinger No. 275,47,Saskatchewan,4709,Division No.  9
 4016322,4706034,South Qu'Appelle No. 157,47,Saskatchewan,4706,Division No.  6
 4016566,4706027,Regina,47,Saskatchewan,4706,Division No.  6
 4016699,4706027,Regina,47,Saskatchewan,4706,Division No.  6
@@ -1211,8 +1162,6 @@ CLIMATE_IDENTIFIER,CSDUID,CSDNAME,PRUID,PRNAME,CDUID,CDNAME
 4020286,4703034,Lake of the Rivers No. 72,47,Saskatchewan,4703,Division No.  3
 4020560,4707063,Victory No. 226,47,Saskatchewan,4707,Division No.  7
 4022359,4711018,Loreburn No. 254,47,Saskatchewan,4711,Division No. 11
-4022363,4711018,Loreburn No. 254,47,Saskatchewan,4711,Division No. 11
-4023240,4708042,Lacadena No. 228,47,Saskatchewan,4708,Division No.  8
 4024714,4707058,Canaan No. 225,47,Saskatchewan,4707,Division No.  7
 4024919,4704048,Maple Creek,47,Saskatchewan,4704,Division No.  4
 4026847,4707066,King George No. 256,47,Saskatchewan,4707,Division No.  7
@@ -1226,7 +1175,6 @@ CLIMATE_IDENTIFIER,CSDUID,CSDNAME,PRUID,PRNAME,CDUID,CDNAME
 4034910,4703018,Mankota No. 45,47,Saskatchewan,4703,Division No.  3
 4036844,4703006,Poplar Valley No. 12,47,Saskatchewan,4703,Division No.  3
 4038412,4704003,Val Marie No. 17,47,Saskatchewan,4704,Division No.  4
-4040587,4708074,Snipe Lake No. 259,47,Saskatchewan,4708,Division No.  8
 4041000,4717032,Frenchman Butte No. 501,47,Saskatchewan,4717,Division No. 17
 4043899,4713006,Kindersley No. 290,47,Saskatchewan,4713,Division No. 13
 4043901,4713006,Kindersley No. 290,47,Saskatchewan,4713,Division No. 13
@@ -1236,7 +1184,6 @@ CLIMATE_IDENTIFIER,CSDUID,CSDNAME,PRUID,PRNAME,CDUID,CDNAME
 4047240,4713062,Scott,47,Saskatchewan,4713,Division No. 13
 4047644,4712069,Glenside No. 377,47,Saskatchewan,4712,Division No. 12
 4048521,4717017,Eldon No. 471,47,Saskatchewan,4717,Division No. 17
-4053264,4715057,St. Louis No. 431,47,Saskatchewan,4715,Division No. 15
 4055079,4714047,Star City No. 428,47,Saskatchewan,4714,Division No. 14
 4055736,4711026,Rudy No. 284,47,Saskatchewan,4711,Division No. 11
 4056121,4715044,Three Lakes No. 400,47,Saskatchewan,4715,Division No. 15
@@ -1287,7 +1234,6 @@ CLIMATE_IDENTIFIER,CSDUID,CSDNAME,PRUID,PRNAME,CDUID,CDNAME
 2100935,6001045,"Yukon, Unorganized",60,Yukon,6001,Yukon
 2100950,6001045,"Yukon, Unorganized",60,Yukon,6001,Yukon
 2100LRP,6001045,"Yukon, Unorganized",60,Yukon,6001,Yukon
-2101095,6001059,Macpherson-Grizzly Valley,60,Yukon,6001,Yukon
 2101102,6001007,Teslin Post 13,60,Yukon,6001,Yukon
 2101106,6001007,Teslin Post 13,60,Yukon,6001,Yukon
 2101201,6001045,"Yukon, Unorganized",60,Yukon,6001,Yukon
