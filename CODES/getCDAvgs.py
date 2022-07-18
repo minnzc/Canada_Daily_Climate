@@ -8,7 +8,7 @@ climate variables data set.
 
 Author:       Minnie Cui
 Date written: 20 April 2021
-Last updated: 13 September 2021
+Last updated: 18 July 2022
 """
 ###############################################################################
 # DEFINE REQUIRED VARIABLES
@@ -22,8 +22,8 @@ census_sd = "census_subdivisions"
 # Census subdivisions population estimates file (created by cleanPop.do)
 pop_sd = "subdivisions_pop"
 
-# Operational weather stations geo-data (as of April 13, 2021)
-stations_file = "swob-xml_station_list.csv"
+# Operational weather stations geo-data (as of July 18, 2022)
+stations_file = "climate_station_list.csv"
 
 ###############################################################################
 # IMPORT REQUIRED PACKAGES
@@ -92,8 +92,10 @@ print("\nSubdivisions boundary data loaded.")
 
 # If user says yes, then update
 if update_sd.lower() == 'y':
+    #url_sts = "https://dd.weather.gc.ca/climate/observations/" + stations_file
+    #stations = pd.read_csv(url_sts)
     #stations = pd.read_csv("./stations/" + stations_file)
-    #stations = stations.rename(columns={'Longitude': 'x', 'Latitude': 'y', 'MSC_ID': 'CLIMATE_IDENTIFIER'})
+    #stations = stations.rename(columns={'Longitude': 'x', 'Latitude': 'y', 'Climate ID': 'CLIMATE_IDENTIFIER'})
     #stations_sd = getSD(stations, subdivisions).drop_duplicates()
     stations_sd = getSD(master, subdivisions).drop_duplicates()
     stations_sd.reset_index(drop=True, inplace=True)
